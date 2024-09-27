@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="Day">Day</string>
+    <string name="day1Content">Primer elemento de la tabla periódica. En condiciones normales es un gas incoloro, inodoro e insípido, compuesto de moléculas diatómicas, H2. El átomo de hidrógeno, símbolo H, consta de un núcleo de unidad de carga positiva y un solo electrón. Tiene número atómico 1 y peso atómico de 1.00797. Es uno de los constituyentes principales del agua y de toda la materia orgánica, y está distribuido de manera amplia no sólo en la Tierra sino en todo el universo.</string>
+    <string name="day2Content">Elemento químico gaseoso, símbolo He, número atómico 2 y peso atómico de 4.0026. El helio es uno de los gases nobles del grupo O de la tabla periódica. Es el segundo elemento más ligero. La fuente principal de helio del mundo es un grupo de campos de gas natural en los Estados Unidos.</string>
+    <string name="day3Content">El litio encabeza la familia de los metales alcalinos en la tabla periódica. En la naturaleza se encuentra como una mezcla de los isótopos Li6 y Li7. Es el metal sólido más ligero, es blando, de bajo punto de fusión y reactivo. Muchas propiedades físicas y químicas son tan o más parecidas a las de los metales alcalinotérreos que a las de su grupo.</string>
+    <string name="day4Content">El berilio, metal raro, es uno de los metales estructurales más ligeros, su densidad es cerca de la tercera parte de la del aluminio. En la table de arriba se muestran algunas de las propiedades físicas y químicas importantes del berilio. El berilio tiene diversas propiedades poco comunes e incluso únicas.</string>
+    <string name="day5Content">Elemento químico, B, número atómico 5, peso atómico 10.811. Tiene tres elementos de valencia y se comporta como no metal. Se clasifica como metaloide y es el único elemento no metálico con menos de cuatro electrones en la capa externa. El elemento libre se prepara en forma cristalina o amorfa.</string>
+    <string name="day6Content">El carbono es único en la química porque forma un número de compuestos mayor que la suma total de todos los otros elementos combinados.Con mucho, el grupo más grande de estos compuestos es el constituido por carbono e hidrógeno. Se estima que se conoce un mínimo de 1.000.000 de compuestos orgánicos y este número crece rápidamente cada año. Aunque la clasificación no es rigurosa, el carbono forma otra serie de compuestos considerados como inorgánicos, en un número mucho menor al de los orgánicos.</string>
+    <string name="day7Content">
+La Reserva Marina Fitzgerald es un área protegida costera ubicada en Moss Beach, California, en la costa del Pacífico. Esta reserva es conocida por su rica biodiversidad marina y sus características únicas, que la convierten en un destino popular para la observación de vida marina y actividades al aire libre.</string>
+    <string name="day8Content">Los autos en la ciudad son una parte integral de la vida urbana, proporcionando movilidad y conectividad a los residentes y visitantes. Estos vehículos, ya sean automóviles particulares, taxis, o servicios de transporte compartido, son una opción popular para desplazarse dentro de áreas urbanas debido a su conveniencia y flexibilidad.</string>
+    <string name="day9Content">El Mar Abierto es una vasta extensión de agua salada que se extiende sin obstáculos por grandes distancias, sin estar confinado por tierra. Este término se utiliza comúnmente para referirse a partes del océano que están lejos de la costa y no están influenciadas significativamente por la tierra, lo que significa que pueden ser profundas y estar expuestas a condiciones climáticas y oceánicas extremas.</string>
+    <string name="day10Content">Un lugar único de belleza surrealista, conocido por sus formaciones rocosas llamadas "hoodoos", que se alzan en tonos vibrantes de rojo, naranja y blanco. Este parque nacional en Utah, Estados Unidos, ofrece senderos escénicos que serpentean entre las formaciones rocosas, brindando vistas impresionantes en cada paso.</string>
+    <string name="day11Content">Ubicada en el norte de Arizona, Sedona es famosa por sus impresionantes formaciones rocosas rojizas y su energía espiritual. Ofrece una combinación perfecta de paisajes espectaculares, actividades al aire libre, tiendas de arte y espiritualidad, así como spas y retiros de bienestar.</string>
+    <string name="day12Content">Una maravilla natural icónica y uno de los destinos más visitados en Estados Unidos, el Gran Cañón es una inmensa garganta labrada por el río Colorado. Sus impresionantes vistas y paisajes espectaculares lo convierten en un lugar imprescindible para los amantes de la naturaleza y la aventura.</string>
+    <string name="day13Content">Situado en la isla de Kauai, Hawái, este parque estatal es conocido por sus impresionantes acantilados de la costa de Nā Pali. Ofrece oportunidades para practicar senderismo, kayak, y observación de la vida marina y aves, así como para disfrutar de algunas de las playas más pintorescas de Hawái.</string>
+    <string name="day14Content">Un paisaje cubierto de nieve, donde los árboles se ven adornados con un manto blanco y el aire está lleno de una quietud serena. Los paisajes invernales ofrecen una belleza tranquila y una oportunidad para disfrutar de actividades como el esquí, el snowboard y las caminatas nevadas.</string>
+    <string name="day15Content">Un ícono en el mundo automotriz, el Porsche 911 es un deportivo legendario conocido por su diseño elegante, su potente motor y su excelente rendimiento. Es el epítome del lujo y la velocidad, cautivando a entusiastas de los autos de todo el mundo con su rendimiento y estilo incomparables.</string>
+    <string name="day16Content">Una herramienta indispensable para la astronomía, el telescopio es un instrumento que amplía nuestra comprensión del universo al permitirnos observar objetos celestes distantes, como estrellas, planetas, galaxias y nebulosas. Es una ventana al cosmos que despierta la curiosidad y el asombro por el vasto universo que nos rodea.</string>
+    <string name="day17Content">Situado en el Parque Nacional de Yosemite, California, el Lago Tenaya es un hermoso lago alpino rodeado de imponentes picos rocosos y bosques de coníferas. Es un destino popular para la recreación al aire libre, incluyendo la pesca, el senderismo y el canotaje, y ofrece vistas impresionantes en todas las estaciones del año.</string>
+    <string name="day18Content">Un momento mágico del día cuando el sol se pone detrás de las montañas, pintando el cielo con tonos cálidos y dorados. Los atardeceres en la montaña ofrecen un espectáculo natural incomparable, lleno de belleza y serenidad, que invita a la reflexión y la contemplación.</string>
+    <string name="day19Content">...</string>
+    <string name="day20Content">...</string>
+    <string name="day21Content">...</string>
+    <string name="day22Content">...</string>
+    <string name="day23Content">...</string>
+    <string name="day24Content">...</string>
+    <string name="day25Content">...</string>
+    <string name="day26Content">...</string>
+    <string name="day27Content">...</string>
+    <string name="day28Content">...</string>
+    <string name="day29Content">...</string>
+    <string name="day30Content">...</string>
+    <string name="day1subtitle">Hidrogeno</string>
+    <string name="day2subtitle">Helio</string>
+    <string name="day3subtitle">Litio</string>
+    <string name="day4subtitle">Berilio</string>
+    <string name="day5subtitle">Bromo</string>
+    <string name="day6subtitle">Carbono</string>
+    <string name="day7subtitle">Fitzgerald Marine Reserve</string>
+    <string name="day8subtitle">Autos</string>
+    <string name="day9subtitle">Mar abierto</string>
+    <string name="day10subtitle">Parque Nacional del Cañón Bryce</string>
+    <string name="day11subtitle">Sedona</string>
+    <string name="day12subtitle">Parque nacional del Gran Cañón</string>
+    <string name="day13subtitle">Parque estatal Costa de Nā Pali</string>
+    <string name="day14subtitle">Paisaje de invierno</string>
+    <string name="day15subtitle">Auto Porsche 911</string>
+    <string name="day16subtitle">Telescopio</string>
+    <string name="day17subtitle">Lago Tenaya</string>
+    <string name="day18subtitle">Atardecer en la montaña</string>
+    <string name="day19subtitle">...</string>
+    <string name="day20subtitle">...</string>
+    <string name="day21subtitle">...</string>
+    <string name="day22subtitle">...</string>
+    <string name="day23subtitle">...</string>
+    <string name="day24subtitle">...</string>
+    <string name="day25subtitle">...</string>
+    <string name="day26subtitle">...</string>
+    <string name="day27subtitle">...</string>
+    <string name="day28subtitle">...</string>
+    <string name="day29subtitle">...</string>
+    <string name="day30subtitle">...</string>
+
+</resources>
